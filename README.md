@@ -306,8 +306,6 @@ The report contains the detailed project documentation, design process and evalu
 
 **Varsha Sundararaj**
 
-Business Analytics Postgraduate | Aspiring Data Analyst / Business Analyst
-
 Business Analytics Postgraduate @ Dublin Business School 
 
 Aspiring Data Analyst | NLP | SQL | Python
