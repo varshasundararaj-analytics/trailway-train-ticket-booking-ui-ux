@@ -6,6 +6,12 @@ This academic project follows a **User-Centered Design (UCD)** approach, progres
 
 ---
 
+## 🔗 Figma Prototype
+
+➡️ [View the Trailway Prototype in Figma](https://www.figma.com/proto/HEaM0mnsrzfkVCuVTVmcN4/Complied-Screens?node-id=0-1&t=QleeTVYXNGXWyQFA-1)
+
+---
+
 ## 📌 Project Overview
 
 Train ticket booking applications can sometimes involve complex navigation, cluttered interfaces and accessibility challenges.
