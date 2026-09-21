@@ -121,7 +121,7 @@ The project explored how a train booking application could provide:
 
 A task flow was developed to understand how users would navigate through the application and complete key activities.
 
-![Trailway Task Flow](assets/task-flow/task-flow.png)
+![Trailway Task Flow](assets/task-flow/task_flow.png)
 
 This helped establish the logical sequence of screens before progressing to detailed interface design.
 
@@ -141,7 +141,7 @@ Wireframing helped focus on layout and user flow before introducing detailed vis
 
 The screens were connected using **Figma's prototyping functionality** to demonstrate navigation between different parts of the application.
 
-![Prototype Flow](assets/design-process/02-prototype-flow.png)
+![Prototype Flow](assets/design-process/02-prototype_flow.png)
 
 This enabled the proposed user journey to be evaluated before progressing further with the design.
 
@@ -151,7 +151,7 @@ This enabled the proposed user journey to be evaluated before progressing furthe
 
 A low-fidelity prototype was developed as an early representation of the application.
 
-![Low-Fidelity Prototype](assets/design-process/03-low-fidelity-prototype.png)
+![Low-Fidelity Prototype](assets/design-process/03-low_fidelity_prototype.png)
 
 The initial prototype was evaluated to identify usability issues before developing the more detailed version.
 
@@ -180,7 +180,7 @@ The feedback was then considered during redesign and development of the higher-f
 
 The interface was refined into a high-fidelity prototype using **Figma**.
 
-![High-Fidelity Prototype](assets/design-process/04-high-fidelity-prototype.png)
+![High-Fidelity Prototype](assets/design-process/04-high_fidelity_prototype.png)
 
 The refined prototype provided a more complete representation of the intended user experience.
 
@@ -215,7 +215,7 @@ These findings helped identify opportunities for future development.
 
 The final design brought together the research, task flow, wireframes, prototype iterations and usability feedback.
 
-![Final Implementation Overview](assets/design-process/05-final-implementation-overview.png)
+![Final Implementation Overview](assets/design-process/05-final_implementation_overview.png)
 
 ---
 
@@ -302,8 +302,13 @@ The report contains the detailed project documentation, design process and evalu
 
 Business Analytics Postgraduate | Aspiring Data Analyst / Business Analyst
 
-🔗 [LinkedIn](https://www.linkedin.com/in/varsha-sundararaj-40a463201)  
-🔗 [GitHub](https://github.com/varshasundararaj-analytics)
+Business Analytics Postgraduate @ Dublin Business School 
+
+Aspiring Data Analyst | NLP | SQL | Python
+
+## 🔗 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/varsha-sundararaj-40a463201
+- GitHub: https://github.com/varshasundararaj-analytics
 
 ---
 
